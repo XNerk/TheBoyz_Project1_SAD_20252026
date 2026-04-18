@@ -6,3 +6,5 @@ Team Members:
 2. Muhammad Zuhairi bin Mohd Ridhuan
 3. Lai Yan Cheng
 4. Dominic Mah Yu Qiao
+5. SASHWIN A/L RAJAGOPAL
+6. Kisyorran Gunasekaran
