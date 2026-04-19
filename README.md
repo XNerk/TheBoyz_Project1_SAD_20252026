@@ -1,10 +1,16 @@
 # TheBoyz_Project1_SAD_20252026
-System Analysis and Design 
+SECD2613 - System Analysis and Design 
 
-Team Members:
-1. Tinesh A/L Gajendra
-2. Muhammad Zuhairi bin Mohd Ridhuan
-3. Lai Yan Cheng
-4. Dominic Mah Yu Qiao
-5. SASHWIN A/L RAJAGOPAL
-6. Kisyorran Gunasekaran
+ | Team Members                                         | Roles |
+ |--------------                                        |-------|
+ | Tinesh Gajendra                              |     Project Lead     |
+ | Muhammad Zuhairi bin Mohd Ridhuan            |  Project Strategist  | 
+ |  Lai Yan Cheng                               | Project Specialist   |
+ | Dominic Mah Yu Qiao                          | Project Task Manager |
+ | Sashwin Rajagopal                            | Project Task Manager | 
+ | Kisyorran Gunasekaran                        |    Project Analyst   | 
+
+
+ 
+ Project Proposal : Completed   (18/4/2026)
+
